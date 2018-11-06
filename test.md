@@ -63,7 +63,7 @@ Copyright © 2004 Sam Hocevar [sam@hocevar.net]
 
 [WTFPL](#wtfpl)
 
-## BSD 3-Clause "New" or "Revised" License 
+# BSD 3-Clause "New" or "Revised" License #
 
 ## Apache License 2.0
 ==================
